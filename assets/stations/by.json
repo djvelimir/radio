@@ -1,0 +1,205 @@
+[
+    {
+        "metaData": {
+            "title": "Международное радио \"Беларусь\""
+        },
+        "url": "https://media1.datacenter.by:1936/belarus/belarus.stream/playlist.m3u8",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Альфа Радио"
+        },
+        "url": "https://stream.sb.by/alpha",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Компас FM"
+        },
+        "url": "https://radio.mil.by/live",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Unistar"
+        },
+        "url": "https://stream.unistar.by/unistar_main_radioplayer/unistar_main/playlist.m3u8",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Międzynarodowe Radio Białoruś"
+        },
+        "url": "https://media1.datacenter.by:1936/belarusfm/belarusfm.stream/playlist.m3u8",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Авторадио"
+        },
+        "url": "https://hls-01-vtv.webcaramba.com/vtv-avtoradio-rp/playlist.m3u8",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Пилот FM"
+        },
+        "url": "https://live.pilotfm.com/stream/pilotfm/aac128",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Радио MFM"
+        },
+        "url": "https://radio.105fm.by/radio.105.0mfm",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Канал \"Культура\" Белорусского радио"
+        },
+        "url": "https://media1.datacenter.by:1936/kultura/kultura.stream/playlist.m3u8",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Радиус FM"
+        },
+        "url": "https://radio.dc.beltelecom.by/radiusfm/radiusfm.stream/playlist.m3u8",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Первый национальный канал Белорусского радио"
+        },
+        "url": "https://media1.datacenter.by:1936/1kanal/1kanal.stream/playlist.m3u8",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Лидер FM"
+        },
+        "url": "https://icecast.lider-fm.by/liderfm",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Радио Гродно"
+        },
+        "url": "https://media2.datacenter.by/stream/8006",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Легенды FM"
+        },
+        "url": "https://livefm.legendy.by/legendy",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Центр FM"
+        },
+        "url": "https://stream.centerfm.by/live/smil:CFM.smil/playlist.m3u8",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Радио Витебск"
+        },
+        "url": "https://media1.datacenter.by:1936/radiovitebsk/radiovitebsk.stream/playlist.m3u8",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Радио РОКС - М"
+        },
+        "url": "https://stream.roks.com/roks.m3u8",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Радио Relax"
+        },
+        "url": "https://hls-01-vtv.webcaramba.com/vtv-radiorelax-rp/playlist.m3u8",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Молодечно - FM"
+        },
+        "url": "https://radio.tvs.by:8089/Radio/index.m3u8",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Радио Ретро"
+        },
+        "url": "https://air.sammit.tv/retro/retro.m3u8",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Новое радио"
+        },
+        "url": "https://live.novoeradio.by:444/live/novoeradio_aac128/icecast.audio",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Радио \"Победа\""
+        },
+        "url": "https://stream.sb.by/den_pobedy",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Юмор FM"
+        },
+        "url": "https://hls-01-vtv.webcaramba.com/vtv-humorfm-rp/playlist.m3u8",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Барановичи FM"
+        },
+        "url": "https://radio.100fm.by:8443/100fm128",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Сталiца"
+        },
+        "url": "https://media1.datacenter.by:1936/stalica/stalica.stream/playlist.m3u8",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Европа Плюс Полоцк"
+        },
+        "url": "https://air.sammit.tv/europa/europa.m3u8",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Радио Мир"
+        },
+        "url": "https://media1.datacenter.by:1936/radiomir/radiomir/playlist.m3u8",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Русское Радио - Минск"
+        },
+        "url": "https://stream.rusradio.by/russkoe.m3u8",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Народное радио"
+        },
+        "url": "https://live.novoeradio.by:444/live/narodnoeradio_adaptive/playlist.m3u8",
+        "duration": 0
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "metaData": {
+            "title": "Radio Fortuna"
+        },
+        "url": "https://radiofortuna.ipradio.mk/;*.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Metropolis Radio Network"
+        },
+        "url": "https://eu4.fastcast4u.com/proxy/metradio?mp=/1",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Sky radio"
+        },
+        "url": "https://s1.skyradio.com.mk/;*.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Radio Gostivarpress"
+        },
+        "url": "https://radio.dukahosting.com/8004/stream/;",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Kanal 103"
+        },
+        "url": "https://radiostream.neotel.mk/kanal103",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Sportsko radio"
+        },
+        "url": "https://streaming.zemi.mk:8080/;",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Radio Meff"
+        },
+        "url": "http://s32.myradiostream.com:16040/;*.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "PlayFM"
+        },
+        "url": "https://radio.shoutcast.mk:8046/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Radio Lider"
+        },
+        "url": "https://liderfm.ipradio.mk/;*mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Radio Tajm FM"
+        },
+        "url": "https://s2.free-shoutcast.com/stream/18058",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Radio Bubamara"
+        },
+        "url": "https://stream.bubamara.com.mk/live",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Radio Vmro"
+        },
+        "url": "https://radiovmro.radioca.st/;*.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "HIT Portal"
+        },
+        "url": "https://radio.shoutcast.mk:2020/stream/hitradio",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Gradski MediaService"
+        },
+        "url": "https://dc1.serverse.com/proxy/akrpnnld/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "UrbanFM Skopje"
+        },
+        "url": "https://securestreams4.autopo.st:1668/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Radio Kavadarci"
+        },
+        "url": "https://stream.zeno.fm/p79t9wf7mg0uv/;",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Super radio Ohrid"
+        },
+        "url": "https://stream-22.zeno.fm/muzq097d2c9uv?zs=thfSm9s8Ss6ZoU8nn15lDA",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Zona M1 radio"
+        },
+        "url": "https://zonam1.ddns.net:8300/;",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Radio Holidej"
+        },
+        "url": "https://stream.zeno.fm/3mdkkf9hgg0uv/;",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Extra Radio"
+        },
+        "url": "https://eu10.fastcast4u.com/extralive",
+        "duration": 0
+    }
+]

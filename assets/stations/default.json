@@ -1,0 +1,37 @@
+[
+    {
+        "metaData": {
+            "title": "Radio Paradise - Eclectic Mix"
+        },
+        "url": "https://stream.radioparadise.com/eclectic-192",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Radio Paradise - Main Mix"
+        },
+        "url": "https://stream.radioparadise.com/mp3-192",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Radio Paradise - Mellow Mix"
+        },
+        "url": "https://stream.radioparadise.com/mellow-192",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Radio Paradise - Rock Mix"
+        },
+        "url": "https://stream.radioparadise.com/rock-192",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Radio Paradise - World Mix"
+        },
+        "url": "https://stream.radioparadise.com/world-192",
+        "duration": 0
+    }
+]

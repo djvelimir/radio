@@ -1,0 +1,296 @@
+[
+    {
+        "metaData": {
+            "title": "Авторадио"
+        },
+        "url": "https://hls-01-gpm.hostingradio.ru/avtoradio495/128/playlist.m3u8",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Дорожное Радио - Дорожное"
+        },
+        "url": "https://hls-01-regions.emgsound.ru/15_msk/playlist.m3u8",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Дорожное Радио - КЕКС Привет, 90-е!"
+        },
+        "url": "https://hls-01-keks.emgsound.ru/7/playlist.m3u8",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Дорожное Радио - Ностальгия"
+        },
+        "url": "https://hls-01-dorognoe-nostalgia.emgsound.ru/19/playlist.m3u8",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Дорожное Радио - Рок-Клуб"
+        },
+        "url": "https://hls-01-dorognoe-rock.emgsound.ru/18/playlist.m3u8",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Дорожное Радио - Танцопол"
+        },
+        "url": "https://hls-01-dorognoedancerus.emgsound.ru/50/playlist.m3u8",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Наше Радио - Rock FM - 00s"
+        },
+        "url": "https://jfm1.hostingradio.ru:14536/rock00.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Наше Радио - Rock FM - 70s"
+        },
+        "url": "https://jfm1.hostingradio.ru:14536/rock70.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Наше Радио - Rock FM - 80s"
+        },
+        "url": "https://jfm1.hostingradio.ru:14536/rock80.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Наше Радио - Rock FM - 90s"
+        },
+        "url": "https://jfm1.hostingradio.ru:14536/rock90.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Наше Радио - Rock FM - Heavy"
+        },
+        "url": "https://jfm1.hostingradio.ru:14536/metal.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Наше Радио - Rock FM - Prog"
+        },
+        "url": "https://jfm1.hostingradio.ru:14536/prog.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Наше Радио - Rock FM - Rock FM"
+        },
+        "url": "https://nashe1.hostingradio.ru:80/rock-128.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Наше Радио - Радио Jazz - Classic Jazz"
+        },
+        "url": "https://jfm1.hostingradio.ru:14536/ijstream.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Наше Радио - Радио Jazz - Jazz 89.1 FM"
+        },
+        "url": "https://nashe1.hostingradio.ru:80/jazz-128.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Наше Радио - Радио Jazz - Jazz Legends"
+        },
+        "url": "https://jfm1.hostingradio.ru:14536/jlstream.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Наше Радио - Радио Jazz - Jazz Vocals"
+        },
+        "url": "https://jfm1.hostingradio.ru:14536/jvstream.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Наше Радио - Радио Jazz - Smooth Jazz"
+        },
+        "url": "https://jfm1.hostingradio.ru:14536/sjstream.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Наше Радио - Наше Радио"
+        },
+        "url": "https://nashe1.hostingradio.ru:80/nashe-128.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Наше Радио - Наше Радио - 2.0"
+        },
+        "url": "https://nashe1.hostingradio.ru:18000/nashe20-128.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Наше Радио - Наше Радио - ЕКБ"
+        },
+        "url": "https://nasheekt.hostingradio.ru:80/nasheekt128.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Наше Радио - Наше Радио - Классик Рок"
+        },
+        "url": "https://nashe1.hostingradio.ru/nasheclassic.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Наше Радио - Наше Радио - Панки Хой!"
+        },
+        "url": "https://nashe1.hostingradio.ru/nashepunks.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Наше Радио - Наше Радио - СПБ"
+        },
+        "url": "https://nashe1.hostingradio.ru:80/nashespb128.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Наше Радио - Наше Радио - Щас Спою"
+        },
+        "url": "https://nashe1.hostingradio.ru/nashesongs.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Наше Радио - Радио Ultra - Ultra"
+        },
+        "url": "https://nashe1.hostingradio.ru:80/ultra-128.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Новое Радио"
+        },
+        "url": "https://hls.newradio.ru/novoeradio-msk/playlist.m3u8",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Русское Радио - RockFam"
+        },
+        "url": "https://hls-01-rusradio.hostingradio.ru/rockfam/96/playlist.m3u8",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Русское Радио - Бессмертный Полк"
+        },
+        "url": "https://hls-01-rusradio.hostingradio.ru/bessmertnyipolk/playlist.m3u8",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Русское Радио - Высоцкий"
+        },
+        "url": "https://hls-01-rusradio.hostingradio.ru/vysockij/playlist.m3u8",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Русское Радио - Детский Канал"
+        },
+        "url": "https://hls-01-rusradio.hostingradio.ru/detskijkanal/96/playlist.m3u8",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Русское Радио - Земляне"
+        },
+        "url": "https://hls-01-rusradio.hostingradio.ru/zemlyane/playlist.m3u8",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Русское Радио - Зимнее Любимое"
+        },
+        "url": "https://hls-01-rusradio.hostingradio.ru/zimlub/96/playlist.m3u8",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Русское Радио - Крылатые Десятые"
+        },
+        "url": "https://hls-01-rusradio.hostingradio.ru/rr10/96/playlist.m3u8",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Русское Радио - Нерпа Юма: Сказки Байкала"
+        },
+        "url": "https://hls-01-rusradio.hostingradio.ru/nerpa/96/playlist.m3u8",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Русское Радио - Родные нулевые"
+        },
+        "url": "https://hls-01-rusradio.hostingradio.ru/rr00/96/playlist.m3u8",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Русское Радио - Русский каток"
+        },
+        "url": "https://hls-01-rusradio.hostingradio.ru/katok/playlist.m3u8",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Русское Радио - Русское Кино"
+        },
+        "url": "https://hls-01-rusradio.hostingradio.ru/russkoekino/96/playlist.m3u8",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Русское Радио - Русское Радио"
+        },
+        "url": "https://hls-01-rusradio.hostingradio.ru/rusradio/playlist.m3u8",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Русское Радио - Советская Классика"
+        },
+        "url": "https://hls-01-rusradio.hostingradio.ru/sovclass/96/playlist.m3u8",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Русское Радио - Соня"
+        },
+        "url": "https://hls-01-rusradio.hostingradio.ru/sonya/96/playlist.m3u8",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Русское Радио - Твоя Москва"
+        },
+        "url": "https://hls-01-rusradio.hostingradio.ru/rrmoscow/96/playlist.m3u8",
+        "duration": 0
+    }
+]
