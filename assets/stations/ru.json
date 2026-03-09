@@ -190,6 +190,20 @@
     },
     {
         "metaData": {
+            "title": "Радио Катюша FM"
+        },
+        "url": "https://drh-connect.dline-media.com/KatushaFM",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Радио Эрмитаж 90.1"
+        },
+        "url": "https://hermitage.hostingradio.ru/hermitage128.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
             "title": "Русское Радио - RockFam"
         },
         "url": "https://hls-01-rusradio.hostingradio.ru/rockfam/96/playlist.m3u8",
@@ -291,6 +305,13 @@
             "title": "Русское Радио - Твоя Москва"
         },
         "url": "https://hls-01-rusradio.hostingradio.ru/rrmoscow/96/playlist.m3u8",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Эльдорадио"
+        },
+        "url": "https://emgspb.hostingradio.ru/eldoradio128.mp3",
         "duration": 0
     }
 ]
