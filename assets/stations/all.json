@@ -416,7 +416,7 @@
         "metaData": {
             "title": "Русское Радио - RockFam"
         },
-        "url": "https://hls-01-rusradio.hostingradio.ru/rockfam/96/playlist.m3u8",
+        "url": "https://hls-01-rusradio.hostingradio.ru/rockfam/playlist.m3u8",
         "duration": 0
     },
     {
@@ -437,7 +437,7 @@
         "metaData": {
             "title": "Русское Радио - Детский Канал"
         },
-        "url": "https://hls-01-rusradio.hostingradio.ru/detskijkanal/96/playlist.m3u8",
+        "url": "https://hls-01-rusradio.hostingradio.ru/detskijkanal/playlist.m3u8",
         "duration": 0
     },
     {
@@ -451,28 +451,35 @@
         "metaData": {
             "title": "Русское Радио - Зимнее Любимое"
         },
-        "url": "https://hls-01-rusradio.hostingradio.ru/zimlub/96/playlist.m3u8",
+        "url": "https://hls-01-rusradio.hostingradio.ru/zimlub/playlist.m3u8",
         "duration": 0
     },
     {
         "metaData": {
             "title": "Русское Радио - Крылатые Десятые"
         },
-        "url": "https://hls-01-rusradio.hostingradio.ru/rr10/96/playlist.m3u8",
+        "url": "https://hls-01-rusradio.hostingradio.ru/rr10/playlist.m3u8",
         "duration": 0
     },
     {
         "metaData": {
             "title": "Русское Радио - Нерпа Юма: Сказки Байкала"
         },
-        "url": "https://hls-01-rusradio.hostingradio.ru/nerpa/96/playlist.m3u8",
+        "url": "https://hls-01-rusradio.hostingradio.ru/nerpa/playlist.m3u8",
         "duration": 0
     },
     {
         "metaData": {
             "title": "Русское Радио - Родные нулевые"
         },
-        "url": "https://hls-01-rusradio.hostingradio.ru/rr00/96/playlist.m3u8",
+        "url": "https://hls-01-rusradio.hostingradio.ru/rr00/playlist.m3u8",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Русское Радио - Русский Рок"
+        },
+        "url": "https://hls-01-rusradio.hostingradio.ru/russkijrok/playlist.m3u8",
         "duration": 0
     },
     {
@@ -486,7 +493,7 @@
         "metaData": {
             "title": "Русское Радио - Русское Кино"
         },
-        "url": "https://hls-01-rusradio.hostingradio.ru/russkoekino/96/playlist.m3u8",
+        "url": "https://hls-01-rusradio.hostingradio.ru/russkoekino/playlist.m3u8",
         "duration": 0
     },
     {
@@ -500,21 +507,28 @@
         "metaData": {
             "title": "Русское Радио - Советская Классика"
         },
-        "url": "https://hls-01-rusradio.hostingradio.ru/sovclass/96/playlist.m3u8",
+        "url": "https://hls-01-rusradio.hostingradio.ru/sovclass/playlist.m3u8",
         "duration": 0
     },
     {
         "metaData": {
             "title": "Русское Радио - Соня"
         },
-        "url": "https://hls-01-rusradio.hostingradio.ru/sonya/96/playlist.m3u8",
+        "url": "https://hls-01-rusradio.hostingradio.ru/sonya/playlist.m3u8",
         "duration": 0
     },
     {
         "metaData": {
             "title": "Русское Радио - Твоя Москва"
         },
-        "url": "https://hls-01-rusradio.hostingradio.ru/rrmoscow/96/playlist.m3u8",
+        "url": "https://hls-01-rusradio.hostingradio.ru/rrmoscow/playlist.m3u8",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Русское Радио - Хайповые Двадцатые"
+        },
+        "url": "https://hls-01-rusradio.hostingradio.ru/rr20/playlist.m3u8",
         "duration": 0
     },
     {
