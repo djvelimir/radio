@@ -1,0 +1,723 @@
+[
+    {
+        "metaData": {
+            "title": "Sarajevo - Radio Sehara"
+        },
+        "url": "https://sehara.name.ba/;",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Zavidovići - Radio Rujnica"
+        },
+        "url": "https://r.name.ba:7115/;stream.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Doboj - Radio Džungla"
+        },
+        "url": "https://cast2.name.ba/proxy/dzungla/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Dijaspora - Radio Vihor"
+        },
+        "url": "https://stream1.srvnetplus.com:18137/",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Banja Luka - Big Radio 2"
+        },
+        "url": "https://big2.bigportal.ba:8080/big2",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Kalesija - Radio Kalesijski Ba"
+        },
+        "url": "https://stream1.srvnetplus.com:18102",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Velika Kladuša - Radio Velkaton"
+        },
+        "url": "https://stream.leftor.com/proxy/velkato1/stream/;stream.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Kozarska Dubica - Krajiški Radio Dubica"
+        },
+        "url": "https://stream1.srvnetplus.com:18039",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Bijeljina - Radio BN"
+        },
+        "url": "https://stream.radiobn.net/;?type=http&nocache=11",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Sarajevo - Radio Stari Grad"
+        },
+        "url": "https://stream.rsgmedia.ba/listen/radio_stari_grad/radio.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Sarajevo - Radio Čaršija"
+        },
+        "url": "https://cast2.name.ba/proxy/nedim/;",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Dijaspora - Radio Avlija"
+        },
+        "url": "https://fr1.nexuscast.com:8900/;?1709507115479",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Dijaspora - Radio Merak USA"
+        },
+        "url": "https://merak-gecko.radioca.st/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Zenica - eXtra Radio"
+        },
+        "url": "https://uzivo.extraradio.ba/1",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Brčko - Radio Bosanska Posavina"
+        },
+        "url": "https://media.radioexs.com/stream/radiobosanskaposavina",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Banja Luka - Pop FM"
+        },
+        "url": "https://solid1.streamupsolutions.com/proxy/bnwmfvnq/POPFM",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Vražići - Radio Avaz"
+        },
+        "url": "http://51.254.61.148:8222",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Banja Luka - Nes Radio"
+        },
+        "url": "https://solid1.streamupsolutions.com/proxy/bnwmfvnq?mp=/NESRADIO",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Sapna - Radio Glas Drine"
+        },
+        "url": "https://cast2.name.ba/proxy/glasdrine/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Modriča - Koprivljanski Radio Izvorna"
+        },
+        "url": "http://cast2.name.ba:9300",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Sarajevo - Radio San"
+        },
+        "url": "https://stream.master-dizajn.com/8020/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Banja Luka - Kontakt Radio"
+        },
+        "url": "https://s1.mojstream.eu:8114",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Gradačac - Radio Bet"
+        },
+        "url": "https://cast1.asurahosting.com/proxy/betradio/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Doboj - RTV Doboj"
+        },
+        "url": "https://stream.leftor.com/proxy/rtvdobo1/stream/;stream.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Zenica - Narodni Radio Zenica"
+        },
+        "url": "https://server1.tnt.ba/proxy/narodnisa?mp=/stream1",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Tuzla - Radio Kameleon"
+        },
+        "url": "https://radiokameleon.radioca.st/;",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Dijaspora - Radio Gbg Folk"
+        },
+        "url": "https://stream.radiogbg.se:8050/relay2",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Dijaspora - Radio Balkan EU"
+        },
+        "url": "https://cast2.name.ba/proxy/balkanci/streamstatus-json.xsl",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Kozarska Dubica - Radio Srce Kozare"
+        },
+        "url": "https://cmr-hosting.com:7029/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Teslić - Radio Studio M"
+        },
+        "url": "https://stream.leftor.com/proxy/studiom2/stream/;stream.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Milići - Radio Magic"
+        },
+        "url": "https://stream.iradio.pro/proxy/magicnarodniradio?mp=/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Dijaspora - Radio Gbg Zabavni"
+        },
+        "url": "https://stream.radiogbg.se:8050/relay",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Vogošća - Radio Vogošća"
+        },
+        "url": "https://stream.leftor.com/proxy/rtvvogo2/stream/;stream.mp3/;",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Derventa - Radio Derventa 2"
+        },
+        "url": "https://stream.radiodijaspora.com:8010/radio.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Odžak - Radio Preporod"
+        },
+        "url": "https://s1.voscast.com:7987/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Tuzla - Narodni Radio Tuzla"
+        },
+        "url": "https://server1.tnt.ba/proxy/narodnize?mp=/stream1",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Sarajevo - Radio Antena Sarajevo"
+        },
+        "url": "https://stream.rsgmedia.ba/listen/antena_sarajevo/radio.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Banja Luka - Big Radio 1"
+        },
+        "url": "https://big1.bigportal.ba:8080/big1",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Mostar - Običan Radio"
+        },
+        "url": "https://stream.leftor.com/proxy/obicanin/stream/;stream.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Dijaspora - Bosanski Radio"
+        },
+        "url": "https://pegasus.nucast.co.uk/stream/8036",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Dijaspora - Radio Spreča"
+        },
+        "url": "https://cast2.name.ba/proxy/radiospreca/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Zenica - Radio Zenit"
+        },
+        "url": "https://live.zenit.ba/1",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Sarajevo - Radio Sarajevo"
+        },
+        "url": "https://443-1.autopo.st/45?type=http",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Begov Han - Radio Begov Han"
+        },
+        "url": "https://cast6.asurahosting.com/proxy/radio129/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Tešanj - NIM Radio"
+        },
+        "url": "https://s19.myradiostream.com/6564/listen.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Banja Luka - UNO Radio"
+        },
+        "url": "https://stream.leftor.com/proxy/unoradi1/stream/;stream.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Dijaspora - Radio Gbg Sevdah"
+        },
+        "url": "https://stream.radiogbg.se:8050/relay4",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Sarajevo - Radio Ilijaš"
+        },
+        "url": "https://stream.leftor.com/proxy/radioili/stream/",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Dijaspora - Radio Gbg Laganini"
+        },
+        "url": "https://stream.radiogbg.se:8050/relay3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Gradiška - Feniks Radio"
+        },
+        "url": "https://c30.radioboss.fm:8234/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Brod - Radio Bosanski Brod"
+        },
+        "url": "https://zpilipov-geckohost.radioca.st/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Brčko - Radio Stjepkovica"
+        },
+        "url": "https://r.name.ba:7312",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Breza - Radio Breza"
+        },
+        "url": "https://sonicpanel.vmakerhost.com/8192/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Begov Han - Radio Bosna"
+        },
+        "url": "https://stream.zeno.fm/qggihjl4mgcvv",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Tuzla - Radio Tuzla"
+        },
+        "url": "https://uzivo.radiotuzla.ba/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Bijeljina - TOP Radio"
+        },
+        "url": "https://stream.leftor.com/proxy/b2radio/stream/;stream.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Bijeljina - Bobar Radio"
+        },
+        "url": "https://stream.radios.rs:9082/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Mostar - Radio Dobre Vibracije"
+        },
+        "url": "https://ec6.yesstreaming.net:1700/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Modriča - Koprivljanski Radio"
+        },
+        "url": "http://158.69.119.6:8101",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Zenica - TNT Radio Zenica"
+        },
+        "url": "https://server1.tnt.ba/proxy/tntzenica?mp=/stream1",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Ugljevik - Radio Skala"
+        },
+        "url": "http://cast2.name.ba:9049",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Sarajevo - BIR Radio"
+        },
+        "url": "http://188.40.62.20:8090",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Tuzla - TNT Radio Tuzla"
+        },
+        "url": "https://server1.tnt.ba/proxy/tnttuzla?mp=/stream1",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Kakanj - Radio Kakanj"
+        },
+        "url": "https://cast2.name.ba/proxy/radiokakanj/;",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Banja Luka - Balkan Hip-Hop Radio"
+        },
+        "url": "https://centova.dukahosting.com/proxy/hiphop/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Čelić - Studio Onyx"
+        },
+        "url": "https://stream.master-dizajn.com/8030/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Dijaspora - Radio Kapija"
+        },
+        "url": "https://s1.voscast.com:7471/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Banja Luka - Big Radio 3"
+        },
+        "url": "https://big3.bigportal.ba:8080/big3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Velika Kladuša - Radio Velika Kladuša"
+        },
+        "url": "https://rvk2021.radioca.st/stream?type=http&nocache=4",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Gračanica - Radio Gračanica"
+        },
+        "url": "https://radiogracanica.wtvnet.net:9443/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Busovača - Radio Busovača"
+        },
+        "url": "https://ec2s.crolive.com.hr/RadioBusovaca",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Derventa - Radio Derventa 1"
+        },
+        "url": "https://stream.radiodijaspora.com:8020/radio.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Dijaspora - MC Radio"
+        },
+        "url": "https://cast6.asurahosting.com/proxy/mcradiom/stream/;BSFM_ATKM.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Srbac - Radio Srbac"
+        },
+        "url": "https://stream1.srvnetplus.com:18000/;?1748517478646",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Cazin - Radio Cazin"
+        },
+        "url": "http://195.222.33.217:8095/;stream.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Lukavac - Radio Lukavac"
+        },
+        "url": "http://195.222.33.217:8022",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Trebinje - Radio Trebinje"
+        },
+        "url": "https://radio.dukahosting.com:7002/;",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Brčko - Hit Radio"
+        },
+        "url": "http://51.254.61.148:8152",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Kupreš - Kupreški Radio"
+        },
+        "url": "https://ec2s.crolive.com.hr:1265/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Sarajevo - Amplituda Radio"
+        },
+        "url": "https://stream1.srvnetplus.com:18090",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Sarajevo - Balkan Hit Radio"
+        },
+        "url": "https://cast2.asurahosting.com/proxy/balkanhi/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Banja Luka - Radio Republike Srpske"
+        },
+        "url": "https://radio.rtrs.tv/radio/live/chunklist_w2145117828.m3u8",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Oštra Luka - Radio Oštra Luka"
+        },
+        "url": "http://144.76.172.23:8001/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Srebrenik - Radio Srebrenik"
+        },
+        "url": "http://radiosrebrenik.omerovic.info:7600",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Vitez - Radio Vitez"
+        },
+        "url": "https://radio.iti.hr/listen/radio_vitez/radio.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Visoko - Radio Visoko"
+        },
+        "url": "http://188.40.62.20:8080/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Banja Luka - Pakao Radio"
+        },
+        "url": "https://securestream.pakaoradio.net/live",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Dijaspora - Radio Bosanka"
+        },
+        "url": "",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Sarajevo - Esoterica Radio S5"
+        },
+        "url": "https://esoterica.servemp3.com:444/listen/synthwave_electronicrock/radio.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Brčko - Radio Brčko"
+        },
+        "url": "http://91.191.0.45:8000",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Laktaši - Radio Laktaši"
+        },
+        "url": "https://radio.laktasiturizam.org/live",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Čapljina - Radio Čapljina"
+        },
+        "url": "http://s8.iqstreaming.com:8016",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Novi Grad - Radio Novi Grad"
+        },
+        "url": "http://s37.myradiostream.com:8120",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Teslić - Radio Svjetionik"
+        },
+        "url": "https://de1.streamingpulse.com/ssl/radioprosvjeta",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Sarajevo - Esoterica Radio S4"
+        },
+        "url": "https://esoterica.servemp3.com:444/listen/psytrance_progressivepsytrance/radio.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Grude - Radio Grude"
+        },
+        "url": "https://www.radiogrude.net/stream.php",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Travnik - TNT Radio Travnik"
+        },
+        "url": "https://server1.tnt.ba/proxy/tntradio?mp=/stream1",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Prnjavor - Radio Prnjavor"
+        },
+        "url": "https://fortuna.prnjavorlive.info/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Sarajevo - Esoterica Radio S1"
+        },
+        "url": "https://esoterica.servemp3.com:444/listen/bigroom_electrohouse/radio.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Sarajevo - Esoterica Radio S2"
+        },
+        "url": "https://esoterica.servemp3.com:444/listen/darkclubbing_darkelectro/radio.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Sarajevo - Esoterica Radio S3"
+        },
+        "url": "https://esoterica.servemp3.com:444/listen/darkbasshouse_cyberpunk_hybridtrap/radio.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Zvornik - Radio Osvit"
+        },
+        "url": "https://radio.dukahosting.com/8020/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Teslić - Radio Bežlja"
+        },
+        "url": "https://azuracast-nuremberg.myautodj.com/listen/station_667_1778243173/radio.mp3",
+        "duration": 0
+    }
+]

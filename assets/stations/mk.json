@@ -1,135 +1,44 @@
 [
     {
         "metaData": {
-            "title": "Radio Fortuna"
-        },
-        "url": "https://radiofortuna.ipradio.mk/;*.mp3",
-        "duration": 0
-    },
-    {
-        "metaData": {
-            "title": "Metropolis Radio Network"
-        },
-        "url": "https://eu4.fastcast4u.com/proxy/metradio?mp=/1",
-        "duration": 0
-    },
-    {
-        "metaData": {
-            "title": "Sky radio"
-        },
-        "url": "https://s1.skyradio.com.mk/;*.mp3",
-        "duration": 0
-    },
-    {
-        "metaData": {
-            "title": "Radio Gostivarpress"
+            "title": "Gostivar - Radio Gostivarpress"
         },
         "url": "https://radio.dukahosting.com/8004/stream/;",
         "duration": 0
     },
     {
         "metaData": {
-            "title": "Kanal 103"
+            "title": "Skopje - Kanal 103"
         },
         "url": "https://radiostream.neotel.mk/kanal103",
         "duration": 0
     },
     {
         "metaData": {
-            "title": "Sportsko radio"
-        },
-        "url": "https://streaming.zemi.mk:8080/;",
-        "duration": 0
-    },
-    {
-        "metaData": {
-            "title": "Radio Meff"
-        },
-        "url": "http://s32.myradiostream.com:16040/;*.mp3",
-        "duration": 0
-    },
-    {
-        "metaData": {
-            "title": "PlayFM"
-        },
-        "url": "https://radio.shoutcast.mk:8046/stream",
-        "duration": 0
-    },
-    {
-        "metaData": {
-            "title": "Radio Lider"
+            "title": "Skopje - Radio Lider"
         },
         "url": "https://liderfm.ipradio.mk/;*mp3",
         "duration": 0
     },
     {
         "metaData": {
-            "title": "Radio Tajm FM"
-        },
-        "url": "https://s2.free-shoutcast.com/stream/18058",
-        "duration": 0
-    },
-    {
-        "metaData": {
-            "title": "Radio Bubamara"
-        },
-        "url": "https://stream.bubamara.com.mk/live",
-        "duration": 0
-    },
-    {
-        "metaData": {
-            "title": "Radio Vmro"
-        },
-        "url": "https://radiovmro.radioca.st/;*.mp3",
-        "duration": 0
-    },
-    {
-        "metaData": {
-            "title": "HIT Portal"
-        },
-        "url": "https://radio.shoutcast.mk:2020/stream/hitradio",
-        "duration": 0
-    },
-    {
-        "metaData": {
-            "title": "Gradski MediaService"
-        },
-        "url": "https://dc1.serverse.com/proxy/akrpnnld/stream",
-        "duration": 0
-    },
-    {
-        "metaData": {
-            "title": "UrbanFM Skopje"
+            "title": "Skopje - UrbanFM"
         },
         "url": "https://securestreams4.autopo.st:1668/stream",
         "duration": 0
     },
     {
         "metaData": {
-            "title": "Radio Kavadarci"
+            "title": "Kavadarci - Radio Kavadarci"
         },
         "url": "https://stream.zeno.fm/p79t9wf7mg0uv/;",
         "duration": 0
     },
     {
         "metaData": {
-            "title": "Super radio Ohrid"
+            "title": "Ohrid - Super radio"
         },
         "url": "https://stream-22.zeno.fm/muzq097d2c9uv?zs=thfSm9s8Ss6ZoU8nn15lDA",
-        "duration": 0
-    },
-    {
-        "metaData": {
-            "title": "Zona M1 radio"
-        },
-        "url": "https://zonam1.ddns.net:8300/;",
-        "duration": 0
-    },
-    {
-        "metaData": {
-            "title": "Radio Holidej"
-        },
-        "url": "https://stream.zeno.fm/3mdkkf9hgg0uv/;",
         "duration": 0
     },
     {
@@ -137,6 +46,272 @@
             "title": "Extra Radio"
         },
         "url": "https://eu10.fastcast4u.com/extralive",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Ohrid - Ohrid 24 Radio"
+        },
+        "url": "https://stream.iradio.pro/proxy/ohrid24?mp=/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Dijaspora - Stil Radio"
+        },
+        "url": "https://a2.asurahosting.com/listen/stil_radio/stilradio?ver=935363",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Ohrid - Gradski Media Servis"
+        },
+        "url": "https://dc1.serverse.com/proxy/akrpnnld/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Prilep - Radio MEFF"
+        },
+        "url": "https://s32.myradiostream.com:16040/;?type=http&nocache=1715105740?0.21110237403929144",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Dijaspora - Stil EXYU Covers"
+        },
+        "url": "https://a2.asurahosting.com/listen/stil_radio/stilcovers",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Skopje - Star Radio Urban Folk"
+        },
+        "url": "https://radiostar.pro/stream/narodna.php",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Skopje - Star Radio Boemi Kafanska"
+        },
+        "url": "https://radiostar.pro/stream/boemi.php",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Skopje - Radio Bubamara"
+        },
+        "url": "https://stream.bubamara.com.mk/live",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Dijaspora - Stil EXYU Retro"
+        },
+        "url": "https://a2.asurahosting.com/listen/stil_radio/stilexyuretro",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Bitola - Radio VMRO"
+        },
+        "url": "https://radiovmro.radioca.st/radiovmro",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Dijaspora - Stil MKD Narodna"
+        },
+        "url": "https://a2.asurahosting.com/listen/stil_radio/stilradiomkd",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Skopje - Star Radio Ex Yu Retro"
+        },
+        "url": "https://radiostar.pro/stream/exyuretro.php",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Skopje - Sky Radio"
+        },
+        "url": "https://s1.skyradio.com.mk/;",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Skopje - Vink Radio EXYU Zabavna"
+        },
+        "url": "https://eu10.fastcast4u.com:10490/stream/3/",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Kumanovo - Kiss FM Radio"
+        },
+        "url": "https://kissfmradionet.radioca.st/;",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Gostivar - Makedonski Folk Radio"
+        },
+        "url": "https://folk.mkradio.online/listen/mk-folk-radio/radio.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Skopje - Star Radio"
+        },
+        "url": "https://radiostar.pro/stream/starlive.php",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Dijaspora - Stil EXYU Pop"
+        },
+        "url": "https://a2.asurahosting.com/listen/stil_radio/stilradioexyupop",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Skopje - Vink Radio"
+        },
+        "url": "https://eu10.fastcast4u.com/vinkradio",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Skopje - Radio Fortuna"
+        },
+        "url": "https://radiofortuna.ipradio.mk/;",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Skopje - Metropolis Radio"
+        },
+        "url": "https://eu4.fastcast4u.com/proxy/metradio?mp=/1",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Gevgelija - Radio Time FM"
+        },
+        "url": "https://s2.free-shoutcast.com/stream/18058",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Skopje - Vink Radio Boem"
+        },
+        "url": "https://eu10.fastcast4u.com:10490/stream/2/",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Bitola - Radio 105"
+        },
+        "url": "https://radio105bombarder.com:21010/;stream.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Prilep - Radio Holidej"
+        },
+        "url": "https://stream.zeno.fm/3mdkkf9hgg0uv",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Kočani - Radio Kočani"
+        },
+        "url": "https://cloud.mkdstream.com/p/8460/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Bitola - Radio 106"
+        },
+        "url": "http://stream.zemi.mk:8003/1",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Strumica - Ekspres Radio"
+        },
+        "url": "http://ekspresradio.dyndns.org:8000",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Kičevo - Radio Akord"
+        },
+        "url": "http://radioakord.dyndns.org:8000",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Skopje - Zona M1 Radio"
+        },
+        "url": "https://zonam1.ddns.net:8300/;",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Štip - Kanal 77"
+        },
+        "url": "https://radiocnd.mms.mk/proxy/reactradio/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Kumanovo - Radio Bravo"
+        },
+        "url": "http://80.77.157.10:8000",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Struga - Play Radio"
+        },
+        "url": "https://radio.shoutcast.mk:8046/stream.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Dijaspora - Stil EXYU Trap"
+        },
+        "url": "https://a2.asurahosting.com/listen/stil_radio/stilexyutrap",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Skopje - City Radio"
+        },
+        "url": "http://176.9.117.123:9998/;stream/1",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Skopje - Sportsko Radio"
+        },
+        "url": "https://streaming.zemi.mk:8080/1;?1715104630056",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Skopje - Radio HIT"
+        },
+        "url": "https://radio.shoutcast.mk:2020/stream/hitradio",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Skopje - Mega Radio"
+        },
+        "url": "https://eu10.fastcast4u.com:6110/stream/3/",
         "duration": 0
     }
 ]

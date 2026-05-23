@@ -1,303 +1,1717 @@
 [
     {
         "metaData": {
-            "title": "OK Radio Beograd"
-        },
-        "url": "https://sslstream.okradio.net/;*.mp3",
-        "duration": 0
-    },
-    {
-        "metaData": {
-            "title": "Hit FM Radio Beograd"
+            "title": "Beograd - Hit FM"
         },
         "url": "https://streaming.hitfm.rs/hit.mp3",
         "duration": 0
     },
     {
         "metaData": {
-            "title": "Radio Karolina Beograd"
-        },
-        "url": "https://streaming.karolina.rs/karolina.mp3",
-        "duration": 0
-    },
-    {
-        "metaData": {
-            "title": "Radio Pingvin"
-        },
-        "url": "https://uzivo.radiopingvin.com/domaci1",
-        "duration": 0
-    },
-    {
-        "metaData": {
-            "title": "Moj Radio"
-        },
-        "url": "https://eu4.fastcast4u.com/proxy/svidakov?mp=/1",
-        "duration": 0
-    },
-    {
-        "metaData": {
-            "title": "Radio S Cafe"
+            "title": "Beograd - Radio S Cafe"
         },
         "url": "https://stream.radios.rs:9012/;*.mp3",
         "duration": 0
     },
     {
         "metaData": {
-            "title": "Radio S Rock"
+            "title": "Beograd - Radio S Rock"
         },
         "url": "https://stream.radios.rs:9032/;*.mp3",
         "duration": 0
     },
     {
         "metaData": {
-            "title": "Radio S Narodni"
+            "title": "Beograd - Radio S Narodni"
         },
         "url": "https://stream.radios.rs:9016/;*.mp3",
         "duration": 0
     },
     {
         "metaData": {
-            "title": "Radio S Pop"
+            "title": "Beograd - Radio S Pop"
         },
         "url": "https://stream.radios.rs:9028/;*.mp3",
         "duration": 0
     },
     {
         "metaData": {
-            "title": "Radio S Rap"
+            "title": "Beograd - Radio S Rap"
         },
         "url": "https://stream.radios.rs:9030/;*.mp3",
         "duration": 0
     },
     {
         "metaData": {
-            "title": "Radio S Folk"
+            "title": "Beograd - Radio S Folk"
         },
         "url": "https://stream.radios.rs:9024/;*.mp3",
         "duration": 0
     },
     {
         "metaData": {
-            "title": "Radio S Dance"
+            "title": "Beograd - Radio S Dance"
         },
         "url": "https://stream.radios.rs:9014/;*.mp3",
         "duration": 0
     },
     {
         "metaData": {
-            "title": "Radio S Pop Folk"
+            "title": "Beograd - Radio S Pop Folk"
         },
         "url": "https://stream.radios.rs:9046/;*.mp3",
         "duration": 0
     },
     {
         "metaData": {
-            "title": "Radio S3 Južni"
+            "title": "Beograd - Radio S3 Južni"
         },
         "url": "https://stream.radios.rs:9038/;*.mp3",
         "duration": 0
     },
     {
         "metaData": {
-            "title": "Radio S Zavičaj"
+            "title": "Beograd - Radio S Zavičaj"
         },
         "url": "https://stream.radios.rs:9040/;*.mp3",
         "duration": 0
     },
     {
         "metaData": {
-            "title": "Radio S Xtra"
+            "title": "Beograd - Radio S Xtra"
         },
         "url": "https://stream.radios.rs:9026/;*.mp3",
         "duration": 0
     },
     {
         "metaData": {
-            "title": "Radio S Ex YU"
+            "title": "Beograd - Radio S Ex YU"
         },
         "url": "https://stream.radios.rs:9042/;*.mp3",
         "duration": 0
     },
     {
         "metaData": {
-            "title": "Radio S 80-e"
+            "title": "Beograd - Radio S 80-e"
         },
         "url": "https://stream.radios.rs:9036/;*.mp3",
         "duration": 0
     },
     {
         "metaData": {
-            "title": "Radio S Easy"
+            "title": "Beograd - Radio S Easy"
         },
         "url": "https://stream.radios.rs:9044/;*.mp3",
         "duration": 0
     },
     {
         "metaData": {
-            "title": "Radio S MIX"
+            "title": "Beograd - Radio S MIX"
         },
         "url": "https://stream.radios.rs:9010/;*.mp3",
         "duration": 0
     },
     {
         "metaData": {
-            "title": "Radio S 2000te"
+            "title": "Beograd - Radio S 2000te"
         },
         "url": "https://stream.radios.rs:9052/stream",
         "duration": 0
     },
     {
         "metaData": {
-            "title": "Radio S 2000-te Folk"
+            "title": "Beograd - Radio S 2000-te Folk"
         },
         "url": "https://stream.radios.rs:9060/stream",
         "duration": 0
     },
     {
         "metaData": {
-            "title": "Radio Novosti"
-        },
-        "url": "https://novosti.radiostreaming.rs/novosti_1",
-        "duration": 0
-    },
-    {
-        "metaData": {
-            "title": "Radio OK Boem Beograd"
-        },
-        "url": "https://stream.okplus.rs/listen/boem/;*.mp3",
-        "duration": 0
-    },
-    {
-        "metaData": {
-            "title": "Cool Radio"
-        },
-        "url": "https://live.coolradio.rs/cool128",
-        "duration": 0
-    },
-    {
-        "metaData": {
-            "title": "TDI Radio"
-        },
-        "url": "https://streaming.tdiradio.com/tdiradio.mp3",
-        "duration": 0
-    },
-    {
-        "metaData": {
-            "title": "Radio JAT Beograd"
+            "title": "Beograd - Radio JAT"
         },
         "url": "https://streaming.radiojat.rs/radiojat.mp3",
         "duration": 0
     },
     {
         "metaData": {
-            "title": "Radio Kolubara"
+            "title": "Kolubara - Radio Kolubara"
         },
         "url": "https://media.radioexs.com/stream/radiokolubara",
         "duration": 0
     },
     {
         "metaData": {
-            "title": "Radio 021 Novi Sad"
+            "title": "Novi Sad - Radio 021"
         },
         "url": "https://radio.dukahosting.com/8006/stream/;*.mp3",
         "duration": 0
     },
     {
         "metaData": {
-            "title": "Radio Cvrčak Kruševac"
-        },
-        "url": "https://mhpanel2.mediahosting025.com/listen/radio_cvrcak_-_krusevac/.mp3",
-        "duration": 0
-    },
-    {
-        "metaData": {
-            "title": "Radio Signal Novi Sad"
-        },
-        "url": "https://radio.dukahosting.com:7021/;*.mp3",
-        "duration": 0
-    },
-    {
-        "metaData": {
-            "title": "Radio Stari Grad Kragujevac"
-        },
-        "url": "https://stream.rsg.rs/live/",
-        "duration": 0
-    },
-    {
-        "metaData": {
-            "title": "Rock Radio Beograd"
-        },
-        "url": "https://edge9.pink.rs/rockstream",
-        "duration": 0
-    },
-    {
-        "metaData": {
-            "title": "Radio AS FM Novi Sad"
-        },
-        "url": "https://asfmonair-masterasfm.radioca.st/stream",
-        "duration": 0
-    },
-    {
-        "metaData": {
-            "title": "Laguna Radio Beograd"
-        },
-        "url": "https://live.radiolaguna.rs/laguna",
-        "duration": 0
-    },
-    {
-        "metaData": {
-            "title": "Radio Morava"
-        },
-        "url": "https://e3.radiomorava.rs/radio/8000/radiomorava128.mp3",
-        "duration": 0
-    },
-    {
-        "metaData": {
-            "title": "Radio Lola Beograd"
-        },
-        "url": "https://streaming.tdiradio.com/radiolola",
-        "duration": 0
-    },
-    {
-        "metaData": {
-            "title": "City Radio Novi Sad"
+            "title": "Novi Sad - City Radio"
         },
         "url": "https://cityonair-masterasfm.radioca.st/stream",
         "duration": 0
     },
     {
         "metaData": {
-            "title": "Radio Ritam Srca"
-        },
-        "url": "https://s4.radio.co/s0f65dad2d/listen",
-        "duration": 0
-    },
-    {
-        "metaData": {
-            "title": "Super FM Radio"
-        },
-        "url": "https://onair.superfm.rs/superfm.mp3",
-        "duration": 0
-    },
-    {
-        "metaData": {
-            "title": "Red Radio"
-        },
-        "url": "https://stream.redradio.rs/sid=1",
-        "duration": 0
-    },
-    {
-        "metaData": {
-            "title": "Prvi Radio Užice"
+            "title": "Užice - Prvi Radio"
         },
         "url": "https://prvionairuzice-masterasfm.radioca.st/stream",
         "duration": 0
     },
     {
         "metaData": {
-            "title": "Radio Šljivovica Kraljevo"
+            "title": "Beograd - Cool Radio"
+        },
+        "url": "https://live.coolradio.rs/cool128",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - OK Radio"
+        },
+        "url": "https://sslstream.okradio.net",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Dijaspora - Moj Radio"
+        },
+        "url": "https://eu4.fastcast4u.com/proxy/svidakov?mp=/1",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Pink Radio"
+        },
+        "url": "https://edge9.pink.rs/pinkstream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - OK Boem"
+        },
+        "url": "https://stream.okplus.rs/listen/boem/radio.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Radio Naxi"
+        },
+        "url": "https://naxi128ssl.streaming.rs:9152",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Kraljevo - Radio Šljivovica"
         },
         "url": "https://stream.iradio.pro/proxy/radiosljivovica?mp=/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Aranđelovac - Radio Šumadinac"
+        },
+        "url": "https://media.srb-streaming.com:8000/;*.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Radio Ritam Srca"
+        },
+        "url": "https://s4.radio.co/s0f65dad2d/listen",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Radio Pingvin"
+        },
+        "url": "https://uzivo.radiopingvin.com/domaci1",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Radio Lola"
+        },
+        "url": "https://streaming.tdiradio.com/radiolola.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Radio S3"
+        },
+        "url": "https://stream.radios.rs:9004/;*.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Grocka - Puls Radio"
+        },
+        "url": "https://stream.iradio.pro/proxy/radiopuls?mp=/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Šabac - Radio Kafana"
+        },
+        "url": "https://radiokafana.com/radio-proxy.php",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Naxi EX-YU Rock Radio"
+        },
+        "url": "https://naxidigital-exyurock128ssl.streaming.rs:8402/",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Radio S1"
+        },
+        "url": "https://stream.radios.rs:9000/;*.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - OK Plus"
+        },
+        "url": "https://stream.okplus.rs/listen/plus/radio.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Naxi EX-YU Radio"
+        },
+        "url": "https://naxidigital-exyu128ssl.streaming.rs:8242/",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Radio Pingvin World"
+        },
+        "url": "https://uzivo.radiopingvin.com/strani1",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Hit Music FM Radio"
+        },
+        "url": "https://streaming.tdiradio.com/hit.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Veliki Popović - Resavski Radio"
+        },
+        "url": "https://e3.radiomorava.rs/listen/resavskiradio/resavskiradio64.aac",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Zrenjanin - Radio Zrenjanin"
+        },
+        "url": "https://radio.dukahosting.com:7031",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Naxi Boem Radio"
+        },
+        "url": "https://naxidigital-boem128ssl.streaming.rs:8162/",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Jagodina - Radio Morava"
+        },
+        "url": "https://e3.radiomorava.rs/radio/8000/radiomorava128.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Užice - Radio Užice"
+        },
+        "url": "https://uzice.yunethosting.net/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Kruševac - Antena Radio"
+        },
+        "url": "http://antenaradio.org:4560",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Užice - Radio San"
+        },
+        "url": "https://radio.dukahosting.com:7052/stream?type=http&nocache=59",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Niš - Radio Belle Amie"
+        },
+        "url": "http://92.60.239.23:8000",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Radio Karolina"
+        },
+        "url": "https://streaming.karolina.rs/karolina.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Niš - Radio Bum 018"
+        },
+        "url": "https://live.bumradio018.rs:8443/live",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Kikinda - Pallas Radio"
+        },
+        "url": "https://eu9.fastcast4u.com/proxy/svidakov2?mp=/1",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Naxi 80-e Radio"
+        },
+        "url": "https://naxidigital-80s128ssl.streaming.rs:8042/",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Topola - iFM Narodni Radio"
+        },
+        "url": "http://91.228.254.72:7000",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Radio S4"
+        },
+        "url": "https://stream.radios.rs:9006/;*.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Lazarevac - Radio Kolubara"
+        },
+        "url": "https://kolubara.name.ba:8000",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Vranje - Radio Skay Narodni"
+        },
+        "url": "http://live.radioskay.com:9012",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - JAT Radio"
+        },
+        "url": "https://streaming.tdiradio.com/radiojat.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Naxi Fitness Radio"
+        },
+        "url": "https://naxidigital-fitness128ssl.streaming.rs:8292/",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Novi Beograd - TDI Radio"
+        },
+        "url": "https://streaming.tdiradio.com/tdiradio.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Radio Nostalgija"
+        },
+        "url": "https://nostalgie128ssl.streaming.rs:9252",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beška - Krajiški Radio"
+        },
+        "url": "https://micorsk.radioca.st/stream?type=http&nocache=31",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Jagodina - Radio Ljubav"
+        },
+        "url": "http://ljubav.streaming.rs:9340",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Naxi Šlager Radio"
+        },
+        "url": "https://naxidigital-slager128ssl.streaming.rs:8372",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Naxi Cafe Radio"
+        },
+        "url": "https://naxidigital-cafe128ssl.streaming.rs:8022/",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Bum Bum Radio"
+        },
+        "url": "https://bumbum.nlnet.rs:8443/bumbum",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Kraljevo - Radio Melos"
+        },
+        "url": "https://radio.en.rs:8200/radiomelos.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Naxi Rock Radio"
+        },
+        "url": "https://naxidigital-rock128ssl.streaming.rs:8182/",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Prnjavor - Radio Tim"
+        },
+        "url": "http://213.239.205.210:6024",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Radio IN"
+        },
+        "url": "https://radioin-128ssl.streaming.rs:9202",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Novi Sad - Antena Radio NS"
+        },
+        "url": "https://srv.mediastriming.com:8034/;*.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Naxi House Radio"
+        },
+        "url": "https://naxidigital-house128ssl.streaming.rs:8002/",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Kraljevo - Radio Odavde Do Večnosti"
+        },
+        "url": "https://centova.dukahosting.com/proxy/studiomd/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Loznica - Lotel Radio"
+        },
+        "url": "https://s1.skeletor.rs/lotel",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Naxi Mix Radio"
+        },
+        "url": "https://naxidigital-mix128ssl.streaming.rs:8222/",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Kula - Radio Q"
+        },
+        "url": "http://as.q-media.rs:8000/mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Top FM"
+        },
+        "url": "https://topfm128ssl.streaming.rs:9282/;stream.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Naxi Disco Radio"
+        },
+        "url": "https://naxidigital-disco128ssl.streaming.rs:8352",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Naxi 90-e Radio"
+        },
+        "url": "https://naxidigital-90s128ssl.streaming.rs:8282/",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Vrnjačka Banja - Radio Banja 2"
+        },
+        "url": "https://stream.iradio.pro/proxy/radiobanja2?mp=/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Bečej - Radio Active"
+        },
+        "url": "https://active96-naxinacional.streaming.rs:8557/;stream.nsv/;*.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Ćuprija - Radio Dak"
+        },
+        "url": "https://stream.radiodak.rs/radiodak",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Čačak - Radio Dženarika"
+        },
+        "url": "http://stream.dzenarika.net:8000",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Naxi Evergreen Radio"
+        },
+        "url": "https://naxidigital-evergreen128ssl.streaming.rs:8012/",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Radio S2"
+        },
+        "url": "https://stream.radios.rs:9002/;*.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Novi Sad - Radio Planeta"
+        },
+        "url": "https://planeta96-naxinacional.streaming.rs:8522/;stream.nsv/;*.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Dijaspora - Radio Puls Luxembourg"
+        },
+        "url": "https://cmr-hosting.com/8312/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Homolje - ExYuMix Radio"
+        },
+        "url": "https://r.name.ba:7306/stream.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Kragujevac - Radio Balkan Kafana"
+        },
+        "url": "https://radiobalkan.live/radio/live/kafana.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Dijaspora - Radio Novi Grad"
+        },
+        "url": "https://mhpanel.mediahosting025.com/listen/radio_novi_grad/;",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Šabac - Radio AS"
+        },
+        "url": "http://185.102.239.216:8000",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Naxi Hype Radio"
+        },
+        "url": "https://naxidigital-hype128ssl.streaming.rs:8272/",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Apatin - MS Radio"
+        },
+        "url": "https://media.radioexs.com:8046/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Novi Sad - Radio Patrola"
+        },
+        "url": "https://srv.mediastriming.com/8444/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Play Radio"
+        },
+        "url": "https://stream.playradio.rs:8443/play.aac",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Vladix 4 Rok"
+        },
+        "url": "https://radio.dukahosting.com:7047/;",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Požega - Radio Požega"
+        },
+        "url": "https://radio.dukahosting.com:7033/;",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Naxi Lounge Radio"
+        },
+        "url": "https://naxidigital-lounge128ssl.streaming.rs:8252/",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Bačka Topola - Naš Radio MM"
+        },
+        "url": "https://radio.dukahosting.com:7045/;*.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Dijaspora - Balkan Radio Salzburg"
+        },
+        "url": "https://cast.balkanradiosalzburg.com/sc/balkanradiosalzburg/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Homolje - Radio Vlajna"
+        },
+        "url": "https://a2.asurahosting.com:8050/radio.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Kosovska Mitrovica - Radio Kontakt Plus"
+        },
+        "url": "https://radio.dukahosting.com:7005",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Naxi Love Radio"
+        },
+        "url": "https://naxidigital-love128ssl.streaming.rs:8102/",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Dijaspora - Radio Zoran Italia 1"
+        },
+        "url": "https://sonic.my-control-panel.eu/8004/stream/;",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Vranje - Radio Skay"
+        },
+        "url": "https://live.radioskay.com/",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Kragujevac - Radio Stari Grad"
+        },
+        "url": "https://stream.rsg.rs/live/",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Rock Radio"
+        },
+        "url": "https://edge9.pink.rs/rockstream/",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Zrenjanin - VIP Radio"
+        },
+        "url": "https://fra-pioneer01.dedicateware.com:1340/radio/8000/radio.mp3?1776974286572",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Novi Sad - Radio Buca"
+        },
+        "url": "https://mpc2.mediacp.eu:8282/bucaradio",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Niš - Banker Radio"
+        },
+        "url": "https://banker96-naxinacional.streaming.rs:8542/;stream.nsv",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Naxi Fresh Radio"
+        },
+        "url": "https://naxidigital-fresh128ssl.streaming.rs:8212/",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Kragujevac - Radio Balkan Trending"
+        },
+        "url": "https://radiobalkan.live/radio/live/trending.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Kikinda - Ami Naxi Radio"
+        },
+        "url": "http://185.119.88.88:8005",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Naxi Dance Radio"
+        },
+        "url": "https://naxidigital-dance128ssl.streaming.rs:8112/",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Ćuprija - Radio Stara Čaršija"
+        },
+        "url": "http://radio.dukahosting.com:8026",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Subotica - YUECO Radio"
+        },
+        "url": "https://s1.skeletor.rs/yueco",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Novi Sad - Radio AS FM"
+        },
+        "url": "https://asfmonair-masterasfm.radioca.st/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Naxi Clubbing Radio"
+        },
+        "url": "https://naxidigital-clubbing128ssl.streaming.rs:8092/",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Kragujevac - Radio Balkan Narodni"
+        },
+        "url": "https://radiobalkan.live/radio/live/narodna.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Smederevo - Lux Radio"
+        },
+        "url": "https://lux-naxinacional.streaming.rs:8607/;stream.nsv",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Dragaš - Radio Pelivan Plus"
+        },
+        "url": "https://as1.radioserveri.com:8210/radio.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - RSK Radio"
+        },
+        "url": "https://sonic-ca.instainternet.com/8262/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Šabac - Radio Cer"
+        },
+        "url": "http://stream1.contrateam.com:8040",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Kragujevac - Radio Balkan Zabavni"
+        },
+        "url": "https://radiobalkan.live/radio/live/zabavna.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Ivanjica - Ivanjički Radio"
+        },
+        "url": "https://redakcija-ivanjica.duckdns.org/",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Super FM"
+        },
+        "url": "https://onair.superfm.rs/superfm.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Dijaspora - Radio Veseljaci"
+        },
+        "url": "https://veseljaci.sp.radio.fm/stream128",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Focus Radio"
+        },
+        "url": "https://streamer.radio.co/s34d2c17d8/listen",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - RED Radio"
+        },
+        "url": "https://stream.redradio.rs/sid=1",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Ub - MB Radio"
+        },
+        "url": "http://188.40.95.74:8100",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Naxi Chill Radio"
+        },
+        "url": "https://naxidigital-chill128ssl.streaming.rs:8412/",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Vladix 3 Soft"
+        },
+        "url": "https://centova.dukahosting.com/proxy/vladix3/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Naxi R'n'B Radio"
+        },
+        "url": "https://naxidigital-rnb128ssl.streaming.rs:8122/",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Naxi Latino Radio"
+        },
+        "url": "https://naxidigital-latino128ssl.streaming.rs:8232/",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Naxi Millennium Radio"
+        },
+        "url": "https://naxidigital-millennium128ssl.streaming.rs:8342/",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Naxi Gold Radio"
+        },
+        "url": "https://naxidigital-gold128ssl.streaming.rs:8062/",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Naxi 70-e Radio"
+        },
+        "url": "https://naxidigital-70s128ssl.streaming.rs:8382/",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Dijaspora - SUTON Radio"
+        },
+        "url": "https://solid1.streamupsolutions.com/proxy/qvggnshe/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Naxi Jazz Radio"
+        },
+        "url": "https://naxidigital-jazz128ssl.streaming.rs:8172/",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Vladix 1 Radio"
+        },
+        "url": "https://centova.dukahosting.com/proxy/dukahost/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Radio Balkanfox"
+        },
+        "url": "https://stream.iradio.pro/proxy/balkanfox?mp=/stream/",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Apatin - Radio Dunav"
+        },
+        "url": "https://dunav.yunethosting.net:8001/stream.ogg",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Godačica - Radio Zavičaj Plus"
+        },
+        "url": "http://s39.myradiostream.com:14870",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Loznica - Radio San"
+        },
+        "url": "https://s1.skeletor.rs/san",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Zaječar - Radio Magnum"
+        },
+        "url": "http://magnum.web-srbija.net:8121/;stream.nsv",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Svetski Radio"
+        },
+        "url": "https://s1.skeletor.rs/svetski",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Požarevac - Radio 012"
+        },
+        "url": "https://pozarevac-bobanex.radioca.st/;*.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Bajina Bašta - Radio Fan"
+        },
+        "url": "http://stream.fanradio.info:9000",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Naxi Adore Radio"
+        },
+        "url": "https://naxidigital-adore128ssl.streaming.rs:8332/",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Kragujevac - Radio Balkan Dance"
+        },
+        "url": "https://radiobalkan.live/radio/live/narodna.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Vladix 2 Rock"
+        },
+        "url": "https://centova.dukahosting.com/proxy/vladix2/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Naxi Funk Radio"
+        },
+        "url": "https://naxidigital-funk128ssl.streaming.rs:8362",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Dragaš - Radio Pelivan"
+        },
+        "url": "https://as1.radioserveri.com:8100/;",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Play Party"
+        },
+        "url": "https://stream.playradio.rs:8443/party.aac",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Dijaspora - Pink Radio Int"
+        },
+        "url": "http://pink.exyuserver.com:80",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Novi Sad - Radio Jugović"
+        },
+        "url": "https://radio.dukahosting.com:7042/;*.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Topola - iFM Radio"
+        },
+        "url": "http://91.228.254.72:8000",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Leskovac - Naxi Radio 016"
+        },
+        "url": "https://naxiradio016-naxinacional.streaming.rs:8637/;.mp3?_=1",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Opovo - Radio Cool Opovo"
+        },
+        "url": "http://cast5.my-control-panel.com:7267/live",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Kraljevo - Radio 996"
+        },
+        "url": "https://radio.en.rs/radio/8000/radio.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Svrljig - Radio Bubamara"
+        },
+        "url": "http://92.60.230.200:5010",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Radio Novosti"
+        },
+        "url": "https://novosti.radiostreaming.rs/novosti_1",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Naxi Classic Radio"
+        },
+        "url": "https://naxidigital-classic128ssl.streaming.rs:8032/",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Vranje - OK Radio"
+        },
+        "url": "https://naxiradiookvranje-naxinacional.streaming.rs:8647/;",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Frankfurt - Radio Vidovdan"
+        },
+        "url": "https://solid48.streamupsolutions.com/proxy/vipugplg/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Novi Bečej - Radio Veseljak"
+        },
+        "url": "https://dedi1.radioveseljak.com:8002",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Radio Studio B"
+        },
+        "url": "http://radio.studiob.rs:8004/;*.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Paraćin - Radio Kanal M"
+        },
+        "url": "https://e3.radiomorava.rs/listen/naxi_kanal_m/128.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Čačak - Klik FM 100.8"
+        },
+        "url": "http://xanadu.yunethosting.net:8000/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Jagodina - Radio Gong"
+        },
+        "url": "https://mojaudio.stream/proxy/gongradio/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Dijaspora - Radio Jugoton"
+        },
+        "url": "https://s8.iqstreaming.com:2020/stream/radio_jugoton/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Kragujevac - Radio Bravo FM Narodni"
+        },
+        "url": "http://195.252.68.166:8036",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Novi Sad - Radio Signal"
+        },
+        "url": "https://radio.dukahosting.com:7021/;",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Arilje - Radio Arilje"
+        },
+        "url": "https://radio.dukahosting.com:7022/;",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Play Rock"
+        },
+        "url": "https://stream.playradio.rs:8443/rock.aac",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Play Urban"
+        },
+        "url": "https://stream.playradio.rs:8443/urban.aac",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Kraljevo - Radio Sloboda"
+        },
+        "url": "https://audio.slobodafm.com/listen/radio_sloboda/radio.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Play Balkan"
+        },
+        "url": "https://stream.playradio.rs:8443/balkan.aac",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Play Soft"
+        },
+        "url": "https://stream.playradio.rs:8443/soft.aac",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Ivanjica - Radio Javor"
+        },
+        "url": "http://javor.streaming.rs:9320/;stream.nsv",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Košava Folk 1 Radio"
+        },
+        "url": "https://folk1.radiokosava.rs",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Naxi Chillwave Radio"
+        },
+        "url": "https://naxidigital-chillwave128ssl.streaming.rs:8322/",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Žabalj - Naš Radio"
+        },
+        "url": "http://radio.dukahosting.com:8354",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Kragujevac - Radio Bravo"
+        },
+        "url": "http://91.221.134.252:8002",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Novi Sad - RTI FM"
+        },
+        "url": "https://radio.dukahosting.com/8030/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Radio Laguna"
+        },
+        "url": "https://live.radiolaguna.rs/laguna?ver=494083",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Pančevo - Radio Pančevo"
+        },
+        "url": "https://s29.myradiostream.com/16654/;listen.mp3;",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Rekovac - Radio Levač"
+        },
+        "url": "http://213.239.205.210:8046",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Dijaspora - YCN Radio"
+        },
+        "url": "http://bombonica.topstream.net:19310",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Dijaspora - Radio Royal"
+        },
+        "url": "http://streamplus31.leonex.de:37034",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Košava Folk 3 Radio"
+        },
+        "url": "https://folk3.radiokosava.rs",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Novi Kneževac - Fox Radio"
+        },
+        "url": "https://fox96-naxinacional.streaming.rs:8547/;stream.nsv",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Kosovska Mitrovica - Kiss Radio"
+        },
+        "url": "http://cast.oblak.in:9515",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Radio Slovo Ljubve"
+        },
+        "url": "https://securestreams.autopo.st:2494/stream/1/;",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Smederevo - Potok Radio"
+        },
+        "url": "https://uzivo.potokradio.net:15897/;",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Vrbas - Radio Fantasy"
+        },
+        "url": "http://109.206.96.34:8575",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Radio 101"
+        },
+        "url": "https://as1.radioserveri.com:8090/radio.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Košava Jazz Radio"
+        },
+        "url": "https://jazz.radiokosava.rs",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Naxi Blues Rock Radio"
+        },
+        "url": "http://naxidigital-blues128.streaming.rs:8310",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Deronje - Internet Radio D65"
+        },
+        "url": "http://37.157.242.102:27486",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Priština - Radio K4"
+        },
+        "url": "https://radiokfor.com/2/proxy/proxy.php",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Naxi Kids Radio"
+        },
+        "url": "http://naxidigital-kids128.streaming.rs:8050",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Indjija - Mega Radio"
+        },
+        "url": "http://95.169.188.101:8000/mega",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Kruševac - Radio Kruševac"
+        },
+        "url": "https://krusevac.ipradio.rs:9014/;stream.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Košava 2 Radio"
+        },
+        "url": "https://kosava2.radiokosava.rs/live",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Košava Folk 2 Radio"
+        },
+        "url": "https://folk2.radiokosava.rs",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Košava Cafe Radio"
+        },
+        "url": "https://cafe.radiokosava.rs",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Kula - Klik FM Kula"
+        },
+        "url": "http://radio.dukahosting.com:8314/",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Bajina Bašta - Radio 4"
+        },
+        "url": "http://85.125.193.47:9000",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Kragujevac - Radio Balkan Dečiji"
+        },
+        "url": "https://radiobalkan.live/radio/live/decija.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Novi Pazar - Radio 100 Plus"
+        },
+        "url": "https://radiostoplus.ipradio.rs:9000/;?type=http",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Stara Pazova - Radio Stara Pazova"
+        },
+        "url": "http://95.140.123.22:8000",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Radio Košava"
+        },
+        "url": "https://main.radiokosava.rs/live",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Užice - Radio Luna"
+        },
+        "url": "http://radiomedia1.yunethosting.net:8000/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Košava Rock Radio"
+        },
+        "url": "https://rock.radiokosava.rs/live",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Košava Evergreen Radio"
+        },
+        "url": "https://evergreen.radiokosava.rs",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Ruma - Radio DIR"
+        },
+        "url": "https://stream.iradio.pro/proxy/dirradio?mp=/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Svilajnac - Radio Nostalgija"
+        },
+        "url": "https://srv.mediastriming.com/8004/;",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Zrenjanin - VIP Rock Radio"
+        },
+        "url": "https://fra-pioneer01.dedicateware.com:2635/stream?1776974495075",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Bačka Palanka - Radio Impuls"
+        },
+        "url": "https://ubnt.xtraya.com/radioimpuls.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Jagodina - Radio Max FM"
+        },
+        "url": "https://stream.radiodak.rs/maxfm",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Vranje - Radio Skay House"
+        },
+        "url": "http://live.radioskay.com:9006",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Leposavić - Radio Mir"
+        },
+        "url": "https://stream.iradio.pro/proxy/radiomir?mp=/stream&1747697789707",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Košava Klasik Radio"
+        },
+        "url": "https://klasik.radiokosava.rs/",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Košava City Radio"
+        },
+        "url": "https://city.radiokosava.rs",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Ub - Radio City"
+        },
+        "url": "http://109.72.57.12:8000",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Naxi Xmas Radio"
+        },
+        "url": "https://naxidigital-xmas128.streaming.rs:8392",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Zrenjanin - VIP House Radio"
+        },
+        "url": "https://fra-pioneer08.dedicateware.com:1335/stream?1776974728125",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Vlasotince - Radio Gaga"
+        },
+        "url": "http://stream1.srvnetplus.com:8074/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Košava Rap Radio"
+        },
+        "url": "https://rap.radiokosava.rs",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Košava Love 1 Radio"
+        },
+        "url": "https://love.radiokosava.rs",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Košava Love 2 Radio"
+        },
+        "url": "https://love2.radiokosava.rs",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Košava Latino Radio"
+        },
+        "url": "https://latino.radiokosava.rs",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Košava Koncert 1 Radio"
+        },
+        "url": "https://koncert1.radiokosava.rs/",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Košava Koncert 2 Radio"
+        },
+        "url": "https://koncert2.radiokosava.rs",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Košava Kids Radio"
+        },
+        "url": "https://kids.radiokosava.rs/",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Košava Info Radio"
+        },
+        "url": "https://info.radiokosava.rs",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Košava Freedom Radio"
+        },
+        "url": "https://freedom.radiokosava.rs",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Košava Clubbing Radio"
+        },
+        "url": "https://clubbing.radiokosava.rs",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Ruma - Dečiji Radio DIR"
+        },
+        "url": "https://stream.iradio.pro/proxy/radiodir?mp=/1&t=1744304181636",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Niš - Black Planet Records Radio"
+        },
+        "url": "https://a4.asurahosting.com:7360/radio.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Kruševac - Radio Cvrčak"
+        },
+        "url": "https://mhpanel2.mediahosting025.com/listen/radio_cvrcak_-_krusevac/.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beograd - Radio Radijacija"
+        },
+        "url": "https://a12.asurahosting.com/listen/radio_radijacija/radio.mp3",
         "duration": 0
     }
 ]

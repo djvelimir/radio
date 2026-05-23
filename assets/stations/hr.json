@@ -1,0 +1,772 @@
+[
+    {
+        "metaData": {
+            "title": "Zagreb - Bravo Live"
+        },
+        "url": "https://relay1.social3.hr/radio/8310/radio.mp3?&_ic2=1?6173",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Varaždin - Radio Max"
+        },
+        "url": "https://azuracast.novi-net.net/listen/radiomax/radiomax.aac",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Glina - Radio Banovina"
+        },
+        "url": "https://audio.radio-banovina.hr:9998/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Zagreb - Radio Extra FM"
+        },
+        "url": "https://audio.social3.hr/listen/extra_aac/stream?7347",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Split - Radio Dalmacija"
+        },
+        "url": "https://shoutcast.pondi.hr:9000/;stream/1",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Zagreb - Otvoreni Radio"
+        },
+        "url": "https://stream.otvoreni.hr:443/stream48",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Stubica - Radio Stubica"
+        },
+        "url": "https://c2.hostingcentar.com/streams/radiostubica//;&type=mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Zagreb - HRT HR2"
+        },
+        "url": "https://27863.live.streamtheworld.com/PROGRAM2AAC.aac?tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&gdpr=0&burst-time=15&sbmid=fc7f9cf4-be6d-4398-8ca4-66ada402b9e7",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Zagreb - Antena Zagreb Radio"
+        },
+        "url": "https://audio.social3.hr/listen/antena_aac/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Krapina - Radio Kaj"
+        },
+        "url": "https://s8.iqstreaming.com:2020/stream/radio-kaj2",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Bjelovar - Super Radio"
+        },
+        "url": "https://mcp1.mydataknox.com:8010/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Kistanje - Fenx FM"
+        },
+        "url": "https://cmr-hosting.com:7020",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Bjelovar - Super Narodni Radio"
+        },
+        "url": "https://mcp1.mydataknox.com:8014/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Lepoglava - Radio Prolaznik"
+        },
+        "url": "https://s8.ssl-stream.com/prolaznik",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Zagreb - HRT HR1"
+        },
+        "url": "https://27913.live.streamtheworld.com/PROGRAM1AAC.aac?tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&gdpr=0&burst-time=15&sbmid=e2c5635f-8c04-429b-8092-7a3cc5e6a4f2",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Velika Mlaka - Folky Ton Radio"
+        },
+        "url": "https://ec2s.crolive.com.hr:6035/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Pazin - Radio Istra"
+        },
+        "url": "https://uk1.streamingpulse.com/ssl/RadioIstra",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Križevci - Narodni Radio Goga"
+        },
+        "url": "https://cmr-hosting.com:7013/;",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Varaždin - Radio Megaton"
+        },
+        "url": "https://chopin.bizmusic.net/radio/8030/radio.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Zagreb - Radio Balkan Music"
+        },
+        "url": "https://media.radioexs.com/stream/radiobalkanmusic",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Virovitica - ICV Radio"
+        },
+        "url": "https://streaming.icv.hr/8002/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Čakovec - Radio 1"
+        },
+        "url": "https://azuracast.novi-net.net/radio/8020/radio1.aac",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Zagreb - Hrvatski Katolički Radio"
+        },
+        "url": "https://stream.hkr.hr/hkr.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Slavonski Brod - Radio Slavonija"
+        },
+        "url": "https://s8.iqstreaming.com:2020/stream/1radio_slavonija",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Zaprešić - ZFM - Radio Zaprešić"
+        },
+        "url": "https://ec2s.crolive.com.hr:7015/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Sljeme - HRT Radio Sljeme"
+        },
+        "url": "https://25683.live.streamtheworld.com/SLJEMEAAC.aac?tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&gdpr=0&burst-time=15&sbmid=0111ae41-1511-47b9-85f3-54dc76ba7a6c",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Zagreb - Bravo Lounge"
+        },
+        "url": "https://relay1.social3.hr/radio/8340/radio.mp3?&_ic2=1?9752",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Zagreb - Bravo Icons"
+        },
+        "url": "https://relay1.social3.hr/radio/8330/radio.mp3?&_ic2=1?8704",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Osijek - Club Music Radio"
+        },
+        "url": "https://cmr-hosting.com:7001/;stream/1",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Varaždin - Sjeverni.FM"
+        },
+        "url": "https://live.sjeverni.fm/radio/8000/radio.mp3?_=1",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Požega - Radio Vallis Aurea"
+        },
+        "url": "https://ec2s.crolive.com.hr:2265/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Split - HRT Radio Split"
+        },
+        "url": "https://29103.live.streamtheworld.com/SPLITAAC.aac",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Zagreb - Bravo Gym"
+        },
+        "url": "https://relay1.social3.hr/radio/8320/radio.mp3?&_ic2=1?9099",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Duga Resa - Radio Mrežnica"
+        },
+        "url": "https://stream3.dns69it.com:443/;*.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Osijek - Radio Lucky"
+        },
+        "url": "https://cmr-hosting.com:7017/;",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Zagreb - Radio Posavina"
+        },
+        "url": "https://cmr-hosting.com/8500/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Novska - Radio Novska"
+        },
+        "url": "http://genf196.startdedicated.de:8686",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Zagreb - Zabavni Radio"
+        },
+        "url": "https://radiocentar.hr:8585/;",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Djakovo - Radio Djakovo"
+        },
+        "url": "https://ec2s.crolive.com.hr:8305/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Garešnica - Radio Krugoval"
+        },
+        "url": "http://144.76.172.23:7043",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Zadar - HRT Radio Zadar"
+        },
+        "url": "https://25603.live.streamtheworld.com/ZADARAAC.aac",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Zagreb - Radio DeeJay"
+        },
+        "url": "https://c2.hostingcentar.com/streams/radiodj/;",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Kutina - Radio Moslavina"
+        },
+        "url": "https://s8.iqstreaming.com:2020/stream/rmoslavina/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Osijek - HRT Radio Osijek"
+        },
+        "url": "https://27913.live.streamtheworld.com/OSIJEKAAC.aac",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Nova Gradiška - Radio Nova Gradiška"
+        },
+        "url": "http://comet.shoutca.st:8050",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Split - Radio Sunce"
+        },
+        "url": "https://shoutcast.pondi.hr:8002/;",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Zagreb - Radio Marija"
+        },
+        "url": "https://dreamsiteradiocp2.com/proxy/rmcroatia?mp=/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Zagreb - Radio Crkvica"
+        },
+        "url": "https://stream.plusvps.com:8116/stream?t=1759786383456",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Županja - Radio Županja"
+        },
+        "url": "https://audio.alter-media.hr:7019",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Pula - Radio Maestral"
+        },
+        "url": "https://ec2s.crolive.com.hr:1635/stream?ver=426449",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Slatina - Radio Slatina"
+        },
+        "url": "https://a1.asurahosting.com/listen/radio_slatina/radio.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Ilok - Radio Ilok"
+        },
+        "url": "https://eu8.fastcast4u.com/proxy/radioilok/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Kaštela - Radio Kaštela"
+        },
+        "url": "https://streams.radio.co/s1b59a32d7/listen",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Karlovac - Trend Radio"
+        },
+        "url": "https://stream1.dns69it.com:443",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Zagreb - Laganini"
+        },
+        "url": "http://194.145.208.251:8000/start/lfmzg",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Zagreb - Bravo Kids"
+        },
+        "url": "https://relay1.social3.hr/radio/8140/radio.mp3?&_ic2=1?6319",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Poreč - Radio Centar"
+        },
+        "url": "https://www.radiocentar.hr:8282/stream.aac",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Imotski - Radio Imotski"
+        },
+        "url": "https://radioimotski.radioca.st/stream?type=http&nocache=1715198098284",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Zagreb - Radio Ćurak"
+        },
+        "url": "https://antares.dribbcast.com/proxy/curak?mp=/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Dubrovnik - HRT Radio Dubrovnik"
+        },
+        "url": "https://27913.live.streamtheworld.com/DUBROVNIKAAC.aac?tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&gdpr=0&burst-time=15&sbmid=3d6c34a1-dba5-4a20-ac9e-274d067981a6",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Pula - HRT Radio Pula"
+        },
+        "url": "https://27943.live.streamtheworld.com/PULAAAC.aac?tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&gdpr=0&burst-time=15&sbmid=3320b44d-0337-4463-841b-60917d5e3916",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Donji Miholjac - Radio Donji Miholjac"
+        },
+        "url": "https://s8.iqstreaming.com:8032/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Zagreb - Hrvatski Radio Frankfurt"
+        },
+        "url": "https://a9.asurahosting.com:7110/radio.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Zadar - Novi Radio Zadar"
+        },
+        "url": "https://s8.iqstreaming.com:2020/stream/novi_radio/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Jastrebarsko - Radio Jaska"
+        },
+        "url": "https://uk1.streamingpulse.com/ssl/RadioJaska",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Zlatar - Radio Zlatar"
+        },
+        "url": "http://144.76.172.23:7059",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Samobor - Radio Samobor"
+        },
+        "url": "http://185.150.235.162:80",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Knin - HRT Radio Knin"
+        },
+        "url": "https://25633.live.streamtheworld.com/KNINAAC.aac",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Čakovec - Radio Čakovec"
+        },
+        "url": "https://c2.hostingcentar.com/streams/radiocakovec/",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Ludbreg - Radio Ludbreg"
+        },
+        "url": "https://a1.asurahosting.com/listen/radioludbreg/radio.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Borovo - Radio Borovo"
+        },
+        "url": "https://audio.radio-banovina.hr/9018/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Našice - Radio Našice"
+        },
+        "url": "https://s8.iqstreaming.com:8038/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Zadar - Radio 057"
+        },
+        "url": "https://audio.alter-media.hr/9052/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Beli Manastir - Radio Baranja"
+        },
+        "url": "https://s8.iqstreaming.com:2020/stream/radio_baranja/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Donji Kraljevec - Radio Studio M"
+        },
+        "url": "https://a4.asurahosting.com:7090/studiom.aac",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Selnica - Radio 105"
+        },
+        "url": "https://azuracast.novi-net.net/radio/8050/radio105.aac",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Zagreb - Radio 101"
+        },
+        "url": "https://live.radio101.hr:8000/;",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Sinj - Hit Radio"
+        },
+        "url": "https://s8.iqstreaming.com:2020/stream/hitradio",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Varaždin - Radio Novi Val"
+        },
+        "url": "https://live.novi-val.com/listen/radio_novi_val/radio.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Varaždin - Radio Sjeverozapad"
+        },
+        "url": "https://a4.asurahosting.com:7840/radio.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Vukovar - Hrvatski Radio Vukovar"
+        },
+        "url": "http://live.hrv.hr:8000/hrv",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Šibenik - Radio Ritam"
+        },
+        "url": "https://ec2s.crolive.com.hr:8455/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Rijeka - HRT Radio Rijeka"
+        },
+        "url": "https://21633.live.streamtheworld.com/RIJEKAAAC.aac",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Krapina - Radio Hrvatsko Zagorje"
+        },
+        "url": "https://s8.iqstreaming.com:2020/stream/rhzk1/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Velika Gorica - City Radio"
+        },
+        "url": "https://s8.iqstreaming.com:2020/stream/city_radioHR/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Zagreb - HRT Glas Hrvatske"
+        },
+        "url": "https://23543.live.streamtheworld.com/VOICEOFCROATIAAAC.aac?tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&gdpr=0&burst-time=15&sbmid=294023ce-137e-484d-b4c2-a42429279cc6",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Dubrovnik - Soundset Ragusa"
+        },
+        "url": "http://178.218.163.171:8012/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Grubišno Polje - Radio Grubišno Polje"
+        },
+        "url": "https://ec2s.crolive.com.hr:8215/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Sisak - Radio Sisačko Moslavački"
+        },
+        "url": "https://s8.iqstreaming.com:2020/stream/radio_quirinus/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Koprivnica - Radio Drava"
+        },
+        "url": "https://streaming.radio-drava.hr/live",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Drniš - Radio Drniš"
+        },
+        "url": "https://ec2s.crolive.com.hr:2410/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Daruvar - Radio Daruvar"
+        },
+        "url": "https://mcp1.mydataknox.com:8016/live.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Sveti Ivan Zelina - Radio Zelina"
+        },
+        "url": "https://ec2s.crolive.com.hr:1690/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Dobrinj - Radio OK"
+        },
+        "url": "https://s8.iqstreaming.com:8014/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Zagreb - Radio Student"
+        },
+        "url": "http://161.53.122.184:8000/AAC128.aac",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Metković - Radio Delta"
+        },
+        "url": "https://ec2s.crolive.com.hr/RadioDelta",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Sisak - Radio Sisak"
+        },
+        "url": "https://c5.hostingcentar.com/proxy/tfm_sisak/player",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Stubičke Toplice - Radio Falš"
+        },
+        "url": "https://play.radioking.io/radiofals",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Ogulin - Radio Ogulin"
+        },
+        "url": "http://144.76.172.23:8002/;stream.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Delnice - Radio Gorski Kotar"
+        },
+        "url": "http://144.76.39.214:9500/stream.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Zagreb - Radio 808"
+        },
+        "url": "http://stream.radio808.info:8003",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Zagreb - HRT HR3"
+        },
+        "url": "https://25453.live.streamtheworld.com/PROGRAM3AAC.aac",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Slunj - Radio Slunj"
+        },
+        "url": "https://s8.iqstreaming.com:2020/stream/radio-slunj1",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Korčula - Radio Korčula"
+        },
+        "url": "http://shoutcast.pondi.hr:8005",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Otočac - Hrvatski Radio Otočac"
+        },
+        "url": "http://s8.iqstreaming.com:8024",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Koprivnica - Radio Koprivnica"
+        },
+        "url": "https://443-1.reliastream.com/51/;",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Petrinja - Petrinjski Radio"
+        },
+        "url": "https://s8.iqstreaming.com:2020/stream/petrinjski_radio",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Labin - Radio Labin"
+        },
+        "url": "http://radiolabin.streamradio.com.hr:9100",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Makarska - Radio Makarska Rivijera"
+        },
+        "url": "http://radio.pa-hosting.de:1080",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Vrbovec - Radio Vrbovec"
+        },
+        "url": "http://c2.hostingcentar.com:9452/;",
+        "duration": 0
+    }
+]

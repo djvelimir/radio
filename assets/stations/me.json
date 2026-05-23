@@ -1,0 +1,72 @@
+[
+    {
+        "metaData": {
+            "title": "Podgorica - Drugačija Radio Stanica"
+        },
+        "url": "https://eu2.fastcast4u.com/proxy/mic0?mp=/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Podgorica - Elmag Radio"
+        },
+        "url": "https://radio.elmag.me/elmag.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Cetinje - Radio Svetigora"
+        },
+        "url": "https://svetigoralive.com/Radio%20Svetigora;",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Podgorica - Radio Bum"
+        },
+        "url": "https://r.name.ba:7324/;*.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Podgorica - Play Radio Montenegro"
+        },
+        "url": "https://stream.playradio.rs:8443/play-me.aac",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Podgorica - Radio Renome"
+        },
+        "url": "https://r.name.ba:7316/;?1759788377460",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Budva - Radio Budva"
+        },
+        "url": "https://c8.radioboss.fm:18199/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Podgorica - Radio Podgorica"
+        },
+        "url": " https://s13.ssl-stream.com/proxy/podgoricaradio?mp=/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Tivat - Radio Dux"
+        },
+        "url": "http://radiodux.me:8000/radiodux?1715117703872",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Tivat - Radio Tivat"
+        },
+        "url": "https://radio.dukahosting.com/8008/stream",
+        "duration": 0
+    }
+]
