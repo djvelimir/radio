@@ -1,37 +1,65 @@
 [
     {
         "metaData": {
-            "title": "Radio Paradise - Eclectic Mix"
+            "title": "Novi Sad - Antena Radio NS"
         },
-        "url": "https://stream.radioparadise.com/eclectic-192",
+        "url": "https://srv.mediastriming.com:8034/;*.mp3",
         "duration": 0
     },
     {
         "metaData": {
-            "title": "Radio Paradise - Main Mix"
+            "title": "Novi Sad - City Radio"
         },
-        "url": "https://stream.radioparadise.com/mp3-192",
+        "url": "https://cityonair-masterasfm.radioca.st/stream",
         "duration": 0
     },
     {
         "metaData": {
-            "title": "Radio Paradise - Mellow Mix"
+            "title": "Novi Sad - Radio 021"
         },
-        "url": "https://stream.radioparadise.com/mellow-192",
+        "url": "https://radio.dukahosting.com/8006/stream/;*.mp3",
         "duration": 0
     },
     {
         "metaData": {
-            "title": "Radio Paradise - Rock Mix"
+            "title": "Novi Sad - Radio AS FM"
         },
-        "url": "https://stream.radioparadise.com/rock-192",
+        "url": "https://asfmonair-masterasfm.radioca.st/stream",
         "duration": 0
     },
     {
         "metaData": {
-            "title": "Radio Paradise - World Mix"
+            "title": "Novi Sad - Radio Buca"
         },
-        "url": "https://stream.radioparadise.com/world-192",
+        "url": "https://mpc2.mediacp.eu:8282/bucaradio",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Novi Sad - Radio Jugović"
+        },
+        "url": "https://radio.dukahosting.com:7042/;*.mp3",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Novi Sad - Radio Patrola"
+        },
+        "url": "https://srv.mediastriming.com/8444/stream",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Novi Sad - Radio Signal"
+        },
+        "url": "https://radio.dukahosting.com:7021/;",
+        "duration": 0
+    },
+    {
+        "metaData": {
+            "title": "Novi Sad - RTI FM"
+        },
+        "url": "https://radio.dukahosting.com/8030/stream",
         "duration": 0
     }
 ]
